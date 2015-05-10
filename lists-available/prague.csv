@@ -1,56 +1,56 @@
- #Group	 Name                     	Name6	Frequency 	  Bandwidth	 Modulation          	Max TX Watts	Duplex	Offset	Tone	rToneFreq	cToneFreq	DtcsCode	DtcsPolarity	TStep	Skip	Comment
- FM-BROADCAST	 ČRo-Dvojka               	CRO-2	91200000	160000	 WFM (mono)          											
- FM-BROADCAST	 Radio1                   	RADIO1	91900000	160000	 WFM (mono)          											
- FM-BROADCAST	 ČRo-Vltava               	CRO-VL	105000000	160000	 WFM (mono)          											
- AERO	 Ruzyne-TWR-1             	RU-TWR	118100000	10000	 Narrow FM           											
- AERO	 Ruzyne-RADAR             	RU-RAD	118300000	10000	 Narrow FM           											
- AERO	 Ruzyne-RADAR-FDirector   	RU-DIR	119000000	10000	 Narrow FM           											
- AERO	 Ruzyne-Departures        	RU-DEP	120050000	10000	 Narrow FM           											
- AERO	 TMA-Praha-RADAR1         	PR-RAD	120525000	10000	 Narrow FM           											
- AERO	 GROUP-Aircraft           	AIRCRA	121000000	10000	 Narrow FM           											
- AERO	 Ruzyne-Delivery          	RU-DEL	121050000	10000	 Narrow FM           											
- AERO	 Ruzyne-TWR-2             	RU-TW2	121500000	10000	 Narrow FM           											
- AERO	 Ruzyne-Taxiing           	RU-TAX	121900000	10000	 Narrow FM           											
- AERO	 Ruzyne-GND               	RU-GND	121900000	10000	 Narrow FM           											
- AERO	 GROUP-Baloon             	BALOON	122250000	10000	 Narrow FM           											
- AERO	 Ruzyne-VOLMET-CZ         	RU-VOL	125525000	10000	 Narrow FM           											
- AERO	 GROUP-Ultralight         	ULIGHT	125825000	10000	 Narrow FM           											
- AERO	 Praha-FIC-W              	PRFICW	126100000	10000	 Narrow FM           											
- AERO	 Ruzyne-FIC-W             	RUFICW	126100000	10000	 Narrow FM           											
- AERO	 TMA-Praha-RADAR2         	PR-RA2	127575000	10000	 Narrow FM           											
- AERO	 Ruzyne-VOLMET-INT        	RU-VO2	128600000	10000	 Narrow FM           											
- AERO	 GROUP-Gliders            	GLIDER	130925000	10000	 Narrow FM           											
- AERO	 Ruzyne-FIC-E             	RUFICE	136175000	10000	 Narrow FM           											
- AERO	 Praha-FIC-E              	PRFICE	136175000	10000	 Narrow FM           											
- HAM	 OK0N-VHF                 	OK0N-V	145600000	10000	 Narrow FM           		-	600000		88,5	88,5					
- HAM	 OK0C                     	OK0C	145700000	10000	 Narrow FM           		-	600000								
- MHD	 METRO-B                  	METROB	155600000	10000	 Narrow FM           											
- MHD	 METRO-Kacerov            	METROK	155600000	10000	 Narrow FM           											
- MHD	 METRO-A                  	METROA	156525000	10000	 Narrow FM           											
- MHD	 METRO-C                  	METROC	156675000	10000	 Narrow FM           											
- MHD	 METRO-Hostivar           	METROH	156700000	10000	 Narrow FM           											
- VHF-SHR	 VHF1                     	SHR-V1	172650000	10000	 Narrow FM           	5										
- VHF-SHR	 VHF2                     	SHR-V2	172725000	10000	 Narrow FM           	1										
- VHF-SHR	 VHF3                     	SHR-V3	172950000	10000	 Narrow FM           	5										
- VHF-SHR	 VHF4                     	SHR-V4	172975000	10000	 Narrow FM           	5										
- VHF-SHR	 VHF5                     	SHR-V5	173050000	10000	 Narrow FM           	1										
- Untagged	 MeteoSondy               	METSON	403800000	10000	 Narrow FM           											
- HAM	 OK0N-UHF                 	OK0N-U	438950000	10000	 Narrow FM           		-	7600000			79,7					
- PMR	 PMR1                     	PMR1	446006250	10000	 Narrow FM           	0,5										
- PMR	 PMR2                     	PMR2	446018750	10000	 Narrow FM           	0,5										
- PMR	 PMR3                     	PMR3	446031250	10000	 Narrow FM           	0,5										
- PMR	 PMR4                     	PMR4	446043750	10000	 Narrow FM           	0,5										
- PMR	 PMR5                     	PMR5	446056250	10000	 Narrow FM           	0,5										
- PMR	 PMR6                     	PMR6	446068750	10000	 Narrow FM           	0,5										
- PMR	 PMR7                     	PMR7	446081250	10000	 Narrow FM           	0,5										
- PMR	 PMR8                     	PMR8	446093750	10000	 Narrow FM           	0,5										
- UHF-SHR	 UHF1                     	UHF1	448490000	14000	 Narrow FM           	5										
- UHF-SHR	 UHF2                     	UHF2	448570000	14000	 Narrow FM           	5										
- UHF-SHR	 UHF3                     	UHF3	448610000	14000	 Narrow FM           	5										
- UHF-SHR	 UHF4                     	UHF4	449770000	14000	 Narrow FM           	1										
- UHF-SHR	 UHF5                     	UHF5	449810000	14000	 Narrow FM           	1										
- Private	 messenger                	MESSGR	469212000	20000	 WFM (mono)          											
- Private	 autodoprava              	AUTOD1	469712000	28000	 WFM (mono)          											
- Private	 autodoprava2             	AUTOD2	470736000	28000	 WFM (mono)          											
- AERO	 ADS-B (UAT)              	ADS-BU	978000000	1300000	 Narrow FM           											
- AERO	 ADS-B (Mode-S)           	ADS-BS	1090000000	50000	 Narrow FM           											
+#Group;		Name                     ;Name6;	Frequency;	Bandwidth; Modulation          ;Max TX Watts;Duplex;Offset;Tone;rToneFreq;cToneFreq;DtcsCode;DtcsPolarity;TStep;Skip;Comment
+FM-BROADCAST;	ČRo-Dvojka               ;CRO-2;	91200000;	160000; WFM (mono)          ;;;;;;;;;;;
+FM-BROADCAST;	Radio1                   ;RADIO1;	91900000;	160000; WFM (mono)          ;;;;;;;;;;;
+FM-BROADCAST;	ČRo-Vltava               ;CRO-VL;	105000000;	160000; WFM (mono)          ;;;;;;;;;;;
+AERO;		Ruzyne-TWR-1             ;RU-TWR;	118100000;	10000; NFM           ;;;;;;;;;;;
+AERO;		Ruzyne-RADAR             ;RU-RAD;	118300000;	10000; NFM           ;;;;;;;;;;;
+AERO;		Ruzyne-RADAR-FDirector   ;RU-DIR;	119000000;	10000; NFM           ;;;;;;;;;;;
+AERO;		Ruzyne-Departures        ;RU-DEP;	120050000;	10000; NFM           ;;;;;;;;;;;
+AERO;		TMA-Praha-RADAR1         ;PR-RAD;	120525000;	10000; NFM           ;;;;;;;;;;;
+AERO;		GROUP-Aircraft           ;AIRCRA;	121000000;	10000; NFM           ;;;;;;;;;;;
+AERO;		Ruzyne-Delivery          ;RU-DEL;	121050000;	10000; NFM           ;;;;;;;;;;;
+AERO;		Ruzyne-TWR-2             ;RU-TW2;	121500000;	10000; NFM           ;;;;;;;;;;;
+AERO;		Ruzyne-Taxiing           ;RU-TAX;	121900000;	10000; NFM           ;;;;;;;;;;;
+AERO;		Ruzyne-GND               ;RU-GND;	121900000;	10000; NFM           ;;;;;;;;;;;
+AERO;		GROUP-Baloon             ;BALOON;	122250000;	10000; NFM           ;;;;;;;;;;;
+AERO;		Ruzyne-VOLMET-CZ         ;RU-VOL;	125525000;	10000; NFM           ;;;;;;;;;;;
+AERO;		GROUP-Ultralight         ;ULIGHT;	125825000;	10000; NFM           ;;;;;;;;;;;
+AERO;		Praha-FIC-W              ;PRFICW;	126100000;	10000; NFM           ;;;;;;;;;;;
+AERO;		Ruzyne-FIC-W             ;RUFICW;	126100000;	10000; NFM           ;;;;;;;;;;;
+AERO;		TMA-Praha-RADAR2         ;PR-RA2;	127575000;	10000; NFM           ;;;;;;;;;;;
+AERO;		Ruzyne-VOLMET-INT        ;RU-VO2;	128600000;	10000; NFM           ;;;;;;;;;;;
+AERO;		GROUP-Gliders            ;GLIDER;	130925000;	10000; NFM           ;;;;;;;;;;;
+AERO;		Ruzyne-FIC-E             ;RUFICE;	136175000;	10000; NFM           ;;;;;;;;;;;
+AERO;		Praha-FIC-E              ;PRFICE;	136175000;	10000; NFM           ;;;;;;;;;;;
+HAM;		OK0N-VHF                 ;OK0N-V;	145600000;	10000; NFM           ;;-;600000;;88;5;88;5;;;
+HAM;		OK0C                     ;OK0C;		145700000;	10000; NFM           ;;-;600000;;;;;;;;
+MHD;		METRO-B                  ;METROB;	155600000;	10000; NFM           ;;;;;;;;;;;
+MHD;		METRO-Kacerov            ;METROK;	155600000;	10000; NFM           ;;;;;;;;;;;
+MHD;		METRO-A                  ;METROA;	156525000;	10000; NFM           ;;;;;;;;;;;
+MHD;		METRO-C                  ;METROC;	156675000;	10000; NFM           ;;;;;;;;;;;
+MHD;		METRO-Hostivar           ;METROH;	156700000;	10000; NFM           ;;;;;;;;;;;
+VHF-SHR;	VHF1                     ;SHR-V1;	172650000;	10000; NFM           ;5;;;;;;;;;;
+VHF-SHR;	VHF2                     ;SHR-V2;	172725000;	10000; NFM           ;1;;;;;;;;;;
+VHF-SHR;	VHF3                     ;SHR-V3;	172950000;	10000; NFM           ;5;;;;;;;;;;
+VHF-SHR;	VHF4                     ;SHR-V4;	172975000;	10000; NFM           ;5;;;;;;;;;;
+VHF-SHR;	VHF5                     ;SHR-V5;	173050000;	10000; NFM           ;1;;;;;;;;;;
+METEO;		MeteoSondy               ;METSON;	403800000;	10000; NFM           ;;;;;;;;;;;
+HAM;		OK0N-UHF                 ;OK0N-U;	438950000;	10000; NFM           ;;-;7600000;;;79;7;;;;
+PMR;		PMR1                     ;PMR1;		446006250;	10000; NFM           ;0;5;;;;;;;;;
+PMR;		PMR2                     ;PMR2;		446018750;	10000; NFM           ;0;5;;;;;;;;;
+PMR;		PMR3                     ;PMR3;		446031250;	10000; NFM           ;0;5;;;;;;;;;
+PMR;		PMR4                     ;PMR4;		446043750;	10000; NFM           ;0;5;;;;;;;;;
+PMR;		PMR5                     ;PMR5;		446056250;	10000; NFM           ;0;5;;;;;;;;;
+PMR;		PMR6                     ;PMR6;		446068750;	10000; NFM           ;0;5;;;;;;;;;
+PMR;		PMR7                     ;PMR7;		446081250;	10000; NFM           ;0;5;;;;;;;;;
+PMR;		PMR8                     ;PMR8;		446093750;	10000; NFM           ;0;5;;;;;;;;;
+UHF-SHR;	UHF1                     ;UHF1;		448490000;	14000; NFM           ;5;;;;;;;;;;
+UHF-SHR;	UHF2                     ;UHF2;		448570000;	14000; NFM           ;5;;;;;;;;;;
+UHF-SHR;	UHF3                     ;UHF3;		448610000;	14000; NFM           ;5;;;;;;;;;;
+UHF-SHR;	UHF4                     ;UHF4;		449770000;	14000; NFM           ;1;;;;;;;;;;
+UHF-SHR;	UHF5                     ;UHF5;		449810000;	14000; NFM           ;1;;;;;;;;;;
+Private;	messenger                ;MESSGR;	469212000;	20000; WFM (mono)          ;;;;;;;;;;;
+Private;	autodoprava              ;AUTOD1;	469712000;	28000; WFM (mono)          ;;;;;;;;;;;
+Private;	autodoprava2             ;AUTOD2;	470736000;	28000; WFM (mono)          ;;;;;;;;;;;
+AERO;		ADS-B (UAT)              ;ADS-BU;	978000000;	1300000; NFM           ;;;;;;;;;;;
+AERO;		ADS-B (Mode-S)           ;ADS-BS;	1090000000;	50000; NFM           ;;;;;;;;;;;
